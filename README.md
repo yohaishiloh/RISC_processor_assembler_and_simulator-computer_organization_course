@@ -60,8 +60,8 @@ This project demonstrates the design and validation of a **RISC processor model*
 ---
 
 ## 📂 Repository Structure
-- assembler/ # Assembler in C
-- simulator/ # Simulator in C
-- assmebly programs/ # Example assembly programs with inputs/outputs
-- docs/ # Project assignment and report (PDFs)
+- `assembler/` - Assembler in C
+- `simulator/` - Simulator in C
+- `assmebly programs/` - Example assembly programs with inputs/outputs
+- `docs/` - Project assignment and report (PDFs)
 - `README.md` - Project documentation
